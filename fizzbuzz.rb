@@ -12,8 +12,6 @@ def fizzbuzz(number)
     return "Buzz"
 
   else return nil
-
+    
   end
 end
-
-#number % 3 == 0 || number % 5 == 0
